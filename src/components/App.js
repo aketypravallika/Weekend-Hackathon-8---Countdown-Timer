@@ -2,7 +2,7 @@ import React, { Component, useState, useEffect } from "react";
 import '../styles/App.css';
 
 const App = () => {
-  // write your code here 
+  
 
   return (
     <div className="wrapper">
